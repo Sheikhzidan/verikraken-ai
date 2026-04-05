@@ -1,0 +1,5 @@
+node_modules
+.env
+logs/*.ndjson
+artifacts/*.ndjson
+dist
